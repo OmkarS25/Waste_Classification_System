@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+matplotlib
+numpy
+seaborn
+Pillow
+tensorflow
+keras
+# live detection only
+opencv-python
+shap
+sklearn
+folium
+streamlit_folium
